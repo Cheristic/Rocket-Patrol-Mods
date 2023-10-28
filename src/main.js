@@ -1,7 +1,7 @@
 /*
 Ethan Heffan
 Raw Patrol
-0 hours
+18 hours
 
 Mods:
 1-pt | New background DONE
@@ -13,8 +13,7 @@ Mods:
 
 
 Citations:
-
-
+-Wario google images
 */
 
 let config = {
