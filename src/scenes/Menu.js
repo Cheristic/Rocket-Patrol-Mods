@@ -41,7 +41,7 @@ class Menu extends Phaser.Scene {
             // novice difficulty
             game.settings = {
                 spaceshipSpeed: 3,
-                gameTimer: 60000
+                gameTimer: 30000
             }
             this.sound.play('sfx_select');
             this.scene.start('playScene');
@@ -50,7 +50,7 @@ class Menu extends Phaser.Scene {
             // expert difficulty
             game.settings = {
                 spaceshipSpeed: 4,
-                gameTimer: 45000
+                gameTimer: 20000
             }
             this.sound.play('sfx_select');
             this.scene.start('playScene');
